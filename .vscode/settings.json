@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "example_ble_sec_gatts_demo.h": "c",
+    "esp_gap_ble_api.h": "c",
+    "gpio.h": "c",
+    "esp_gatts_api.h": "c",
+    "nvs_flash.h": "c",
+    "esp_bt.h": "c"
+  },
+  "idf.portWin": "COM3"
+}

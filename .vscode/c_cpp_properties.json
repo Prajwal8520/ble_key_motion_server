@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/Lenovo/esp/v4.4/esp-idf/**",
+                "/Users/Lenovo/esp/v4.4/esp-idf/components/**",
+                "/Users/Lenovo/esp/v4.4/esp-idf/components/freertos/**",
+                "/Users/Lenovo/esp/v4.4/esp-idf/components/driver/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
