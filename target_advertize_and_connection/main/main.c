@@ -13,9 +13,6 @@
 #include "example_ble_sec_gatts_demo.h"
 #include "driver/gpio.h"
 
-// Address of the central device to direct the advertising to
-// esp_bd_addr_t peer_addr = {0x12, 0x34, 0x56, 0x78, 0x9A, 0xBC}; // Replace with your central device's address
-
 #define GATTS_TABLE_TAG "SEC_GATTS_DEMO"
 #define PREPARE_BUF_MAX_SIZE 1024
 

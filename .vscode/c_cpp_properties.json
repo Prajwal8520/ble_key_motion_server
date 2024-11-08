@@ -4,16 +4,14 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/Users/Lenovo/esp/v4.4/esp-idf/**",
-                "/Users/Lenovo/esp/v4.4/esp-idf/components/**",
-                "/Users/Lenovo/esp/v4.4/esp-idf/components/freertos/**",
-                "/Users/Lenovo/esp/v4.4/esp-idf/components/driver/**"
+                "C:\\Users\\Lenovo\\esp\\v5.3.1\\esp-idf\\components/**"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
-            ]
+            ],
+            "compileCommands": "${workspaceFolder}/target_advertize_and_connection/build/bootloader/compile_commands.json"
         }
     ],
     "version": 4
