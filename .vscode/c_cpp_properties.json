@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\Users\\Lenovo\\esp\\v5.3.1\\esp-idf\\components/**"
+                "C:\\Users\\Lenovo\\esp\\v5.3.1\\esp-idf\\components/**",
+                "C:\\Users\\Lenovo\\esp\\v5.3.1\\esp-idf\\components\\freertos/**"
             ],
             "defines": [
                 "_DEBUG",

@@ -31,15 +31,15 @@
 /// Attributes State Machine
 enum
 {
-    bike_service,
+    key_motion_service,
 
-    speed_characteristics_index,
-    speed_characteristics_value,
-    speed_characteristics_descriptor,
+    bike_characteristics_index,
+    bike_characteristics_value,
+    bike_characteristics_descriptor,
 
-    gps_data_characteristics_index,
-    gps_data_characteristics_value,
-    gps_data_characteristics_descriptor,
+    key_characteristics_index,
+    key_characteristics_value,
+    key_characteristics_descriptor,
 
     control_point_characteristics_index,
     control_point_characteristics_value,
